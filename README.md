@@ -23,8 +23,8 @@ Test and improve your memory by clicking on circles in the correct sequence.
 
 ## 📸 Screenshots
 
-<img src="circlejuggler1.png" alt="Gameplay Screenshot 1" width="400"/>  
-<img src="circlejuggler2.png" alt="Gameplay Screenshot 2" width="400"/>
+<img src="endgame.png" alt="Gameplay Screenshot 1" width="400"/>  
+<img src="game.png" alt="Gameplay Screenshot 2" width="400"/>
 
 ## 🛠️ Built With
 
